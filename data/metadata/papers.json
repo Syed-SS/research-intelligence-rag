@@ -1,0 +1,92 @@
+[
+  {
+    "paper_id": "RAG-001",
+    "title": "Retrieval-Augmented Generation for Large Language Models: A Survey",
+    "authors": ["Yunfan Gao et al."],
+    "year": 2024,
+    "arxiv_id": "2312.10997",
+    "category": "foundational_rag",
+    "source_url": "https://arxiv.org/abs/2312.10997"
+  },
+  {
+    "paper_id": "RAG-002",
+    "title": "A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions",
+    "authors": ["Shailja Gupta", "Rajesh Ranjan", "Surya Narayan Singh"],
+    "year": 2024,
+    "arxiv_id": "2410.12837",
+    "category": "foundational_rag",
+    "source_url": "https://arxiv.org/abs/2410.12837"
+  },
+  {
+    "paper_id": "RAG-003",
+    "title": "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",
+    "authors": ["Akari Asai et al."],
+    "year": 2023,
+    "arxiv_id": "2310.11511",
+    "category": "advanced_rag",
+    "source_url": "https://arxiv.org/abs/2310.11511"
+  },
+  {
+    "paper_id": "RAG-004",
+    "title": "Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity",
+    "authors": ["Yunjia Xi et al."],
+    "year": 2024,
+    "arxiv_id": "2403.14403",
+    "category": "adaptive_rag",
+    "source_url": "https://arxiv.org/abs/2403.14403"
+  },
+  {
+    "paper_id": "RAG-005",
+    "title": "Graph Retrieval-Augmented Generation: A Survey",
+    "authors": ["H. Zhang et al."],
+    "year": 2024,
+    "arxiv_id": "2408.08921",
+    "category": "graph_rag",
+    "source_url": "https://arxiv.org/abs/2408.08921"
+  },
+  {
+    "paper_id": "RAG-006",
+    "title": "HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases",
+    "authors": ["Authors as listed on arXiv"],
+    "year": 2024,
+    "arxiv_id": "2412.16311",
+    "category": "hybrid_graph_rag",
+    "source_url": "https://arxiv.org/abs/2412.16311"
+  },
+  {
+    "paper_id": "RAG-007",
+    "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "authors": ["Zhuosheng Wang et al."],
+    "year": 2024,
+    "arxiv_id": "2410.05779",
+    "category": "lightrag",
+    "source_url": "https://arxiv.org/abs/2410.05779"
+  },
+  {
+    "paper_id": "RAG-008",
+    "title": "Chain-of-Retrieval Augmented Generation",
+    "authors": ["Authors as listed on arXiv"],
+    "year": 2025,
+    "arxiv_id": "2501.14342",
+    "category": "multi_step_retrieval",
+    "source_url": "https://arxiv.org/abs/2501.14342"
+  },
+  {
+    "paper_id": "RAG-009",
+    "title": "RAGAS: Automated Evaluation of Retrieval Augmented Generation",
+    "authors": ["Shahul Es et al."],
+    "year": 2023,
+    "arxiv_id": "2309.15217",
+    "category": "evaluation",
+    "source_url": "https://arxiv.org/abs/2309.15217"
+  },
+  {
+    "paper_id": "RAG-010",
+    "title": "RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation",
+    "authors": ["Authors as listed on arXiv"],
+    "year": 2024,
+    "arxiv_id": "2408.08067",
+    "category": "evaluation",
+    "source_url": "https://arxiv.org/abs/2408.08067"
+  }
+]

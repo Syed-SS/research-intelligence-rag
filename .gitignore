@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# LightRAG local storage
+rag_storage/
+rag_storage_test/
+rag_storage_tiny/
+
+# Logs
+*.log
+
+# Temporary / partial evaluation files
+*.partial.json
+
+# Local diagnostic outputs
+ragas_llm_inspection.txt
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+data/processed/
+data/raw/

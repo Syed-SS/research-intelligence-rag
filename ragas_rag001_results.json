@@ -1,0 +1,45 @@
+{
+  "dataset": "RAG-001",
+  "ragas_version": "0.4.3",
+  "samples": 3,
+  "evaluation_model": "gpt-4o-mini",
+  "embedding_model": "text-embedding-3-small",
+  "metrics": [
+    "faithfulness",
+    "answer_relevancy",
+    "context_precision",
+    "context_recall"
+  ],
+  "overall_scores": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.7708865955398793,
+    "context_precision": 0.9999999999,
+    "context_recall": 1.0
+  },
+  "per_question_results": [
+    {
+      "question_number": 1,
+      "user_input": "What are the three foundational components of RAG frameworks identified in the survey?",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6572724813996333,
+      "context_precision": 0.9999999999,
+      "context_recall": 1.0
+    },
+    {
+      "question_number": 2,
+      "user_input": "Why does Retrieval-Augmented Generation help address limitations of Large Language Models, particularly for knowledge-intensive tasks?",
+      "faithfulness": NaN,
+      "answer_relevancy": 0.7837695448564356,
+      "context_precision": 0.9999999999,
+      "context_recall": 1.0
+    },
+    {
+      "question_number": 3,
+      "user_input": "What progression of RAG paradigms does the survey examine?",
+      "faithfulness": NaN,
+      "answer_relevancy": 0.8716177603635689,
+      "context_precision": 0.9999999999,
+      "context_recall": 1.0
+    }
+  ]
+}
