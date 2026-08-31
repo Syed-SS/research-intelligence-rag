@@ -483,7 +483,7 @@ Add human evaluation alongside automated RAGAS evaluation.
 Track evaluation results across multiple system configurations.
 Analyze retrieval latency and token usage.
 Add automated experiment tracking.
-Build a user-facing research question-answering interface.
+
 
 
 
